@@ -1,0 +1,45 @@
+body,html{
+	font-family: 'montserrat';
+	height: 100%;
+	width: 100%;
+	background: url(C:/Users/user/Desktop/shee.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1{
+	color: #e2dbdb;
+	font-size: 3rem;
+
+}
+
+hr{
+	margin: 20px auto;
+	border: 3px solid #f05f44;
+	color: #f05f44;
+	max-width: 6rem;
+	opacity: 10;
+}
+.buffer{
+	height: 50px;
+}
+
+.btn{
+	font-weight: 600;
+	border-radius: 40px;
+	text-transform: uppercase;
+}
+.btn-primary{
+	background-color:#f05f44;
+	border-color:#f05f44;
+}
+.btn-xl{
+	padding: 1rem 2rem;
+}
+.btn-primary:hover
+{
+	background-color:#f05f44;
+	border-color: #f05f44;
+	border-width: 4px;
+}
